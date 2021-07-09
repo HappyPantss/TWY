@@ -3,7 +3,7 @@
 
 TWY is an upcoming music artist, created by [Thunderboom Records](https://www.thunderboomrecords.com/) to make people enjoy ai-generated music. This project is made for her fans, making them able to contact TWY and talk to her.
 
-[Click here for the live demo](https://rr.noordstar.me/website-wordt-nog-gebouwd-113261c9)
+[Click here for the live demo](https://happypantss.github.io/TWY/)
 
 # Table of Contents 🧭
 1. [Goal](https://github.com/HappyPantss/TWY#goal-)
